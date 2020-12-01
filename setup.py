@@ -14,7 +14,7 @@ def read(filename):
 
 
 setup(
-    name="basicsynbio_dummy",
+    name="basicsynbio",
     version="0.0.1",
     url="https://github.com/hainesm6-learning/basicsynbio-dummy",
     license='MIT',
